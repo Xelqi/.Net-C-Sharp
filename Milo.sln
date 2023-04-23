@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Milo", "Milo\Milo.csproj", "{45F102D2-ADBE-413D-B4A4-F77C992393B7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excercise 1", "Milo\Excercise 1.csproj", "{45F102D2-ADBE-413D-B4A4-F77C992393B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excerice 2", "Excerice 2\Excerice 2.csproj", "{146EB13A-CA19-422B-9C4E-0B4183CF7FBF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{45F102D2-ADBE-413D-B4A4-F77C992393B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45F102D2-ADBE-413D-B4A4-F77C992393B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45F102D2-ADBE-413D-B4A4-F77C992393B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{146EB13A-CA19-422B-9C4E-0B4183CF7FBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{146EB13A-CA19-422B-9C4E-0B4183CF7FBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{146EB13A-CA19-422B-9C4E-0B4183CF7FBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{146EB13A-CA19-422B-9C4E-0B4183CF7FBF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
